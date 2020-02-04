@@ -9,6 +9,8 @@ use_preset_vocabulary: false
 import_tables:
   - taigi_pojhanlo.extended
 ...
+-	-	100
+--	--	100
 一	chit8	0
 一	Chit8	0
 一	CHIT8	0
